@@ -79,6 +79,8 @@ information as well. The webpage does not show that content unless the user clic
 
 
 and I got alittle bit more intersting information you can see above the box blots are obviously there are outliers as we can see below
+
+
 ![image](https://user-images.githubusercontent.com/46110270/206856666-df10a56a-4788-4f1f-a1be-d1ecaa149702.png)
 
 
@@ -88,10 +90,13 @@ and I got alittle bit more intersting information you can see above the box blot
 
 
 2) We find the 3 top location underpaid 90K and 3 top location highpaid 90K and The precense of California as the job location in the high paid group , on the other hand ,the precense of GA in the low paid group. the underpaid group locates more at lower salary such as Manhattan as we can see below :
-3) 
 
 
 ![image](https://user-images.githubusercontent.com/46110270/206856360-fb8d4a87-ee33-4164-9dc8-0cd695625560.png)
+
+3) we find top 10 states hiring data science ,Not suprisingly , a New York-based job is paid more (113K+), but sush a bog gap up to (60K+) a year between New York and other like Massachusetts is still astonishing.Moreover ,regardlessof living cost ,data science professionals
+
+ ![image](https://user-images.githubusercontent.com/46110270/206856911-d91dbaed-4d47-4d60-bc2b-0b4ba365f149.png)
 
 
 

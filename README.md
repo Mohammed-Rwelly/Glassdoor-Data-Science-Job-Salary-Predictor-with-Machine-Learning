@@ -1,15 +1,15 @@
 # Glassdoor-Data-Science-Job-Salary-Predictor-with-Machine-Learning
 This project includes detailed steps from exploration data analysis to the whole workflow of building a salary range predictor based on real jobs data scraped from the Glassdoor.
 
-1-Steps of project :
+Steps of project :
 
-a- Data Collected :
+## 1-Data Collected :
 
 #### 1-1 Create a database 'datafromglassdoor2'  and table it's name 'GlassdoorDataset2' contain the columns ['City', 'JobId', 'Source', 'CollectedDate', 'JobTitle', 'CompanyName',
        'RatingNumber', 'PostedDate', 'Posted_Date_N', 'Salary', 'jobURL',
        'fullJobDescribtion', 'Size', 'Type_Of_Ownership', 'Sector', 'Founded',
        'Industry', 'Revenue'] .
-####1-2 Scrapping real data ,Firstly what is scarpping data ?it's the stongest point of our project this stage around two months because  
+#### 1-2 Scrapping real data ,Firstly what is scarpping data ?it's the stongest point of our project this stage around two months because  
         it's amethod for collecting informationn from web pages .
         Why scrapping?
         Other than the fact that it is fun, Glassdoor’s library provides a limited number of data points. It doesn’t allow you to scrape jobs or reviews. You only get to scrape companies, which was useless in my case

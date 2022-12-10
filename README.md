@@ -28,7 +28,11 @@ Tips about the data scraping step:
          
 a)Some errors may be due to the slow internet speed so adding extra time.sleep functions between page loading steps will help prevent errors
          
-b) XPath is helpful to locate the element you want to click on. After you are familiar with the XPath, you may find it actually very straightforward. First, right-click on the element and select inspect, then right-click on the selected part of HTML code and select copy XPath.
+b) XPath is helpful to locate the element you want to click on. After you are familiar with the XPath, you may find it actually very
+straightforward. First, right-click on the element and select inspect, then right-click on the selected part of HTML code and select
+copy XPath.
+
+## 3- Exploratory Data Analysis 
 
 c) after that we store tha data the scrapped to online database which I mean 'datafromglassdoor2' that we had created in the top .
 
@@ -65,9 +69,15 @@ information as well. The webpage does not show that content unless the user clic
         
  ou code a python script that would act just like a human user.
         
- Tips about the data scrapping step:
+## 3- Exploratory Data Analysis :
+
+1) we will  display the distribuation of the salary for Data Science , Data Engineer and Data Analyst and I got alittle bit more intersting information you can see above the box blots are obviously there are outliers , so we must to drop it by finding the IQR for Salary of Data Analyst ,which data points which fall below Q1 – 1.5 IQR or above Q3 + 1.5 IQR are outliers where Q1 and Q3 are the 25th and 75th percentile of the dataset respectively, and IQR represents the inter-quartile range and given by Q3 – Q1.
+
+2) We find the 3 top location underpaid 90K and 3 top location highpaid 90K and The precense of California as the job location in the high paid group , on the other hand ,the precense of GA in the low paid group. the underpaid group locates more at lower salary such as Manhattan
 
 
+![image](https://user-images.githubusercontent.com/46110270/206856360-fb8d4a87-ee33-4164-9dc8-0cd695625560.png)
 
-
+4) 4) 
+5) 
 

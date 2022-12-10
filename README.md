@@ -22,15 +22,23 @@ Steps of project :
  ## 2- Data Cleaning:
  
  we proceed onto the data cleaning step. Essentially, we will clean and keep the following columns
- a)Salary Estimate
+ 
+a)Salary Estimate
+
 b)Company Name
+
 c)Job Description
+
 Besides, we will perform some feature engineering steps to generate some new feature columns as the following:
 
 a)Average Salary Estimate
+
 b)City & State
+
 c)Company Age
+
 d)Trending Data Science Tools (‘Python’, ‘R’,‘SQL’, ‘AWS’, ‘Excel’, ‘Spark’, ‘PyTorch’, ‘TensorFlow’,'Mahine Learning' , 'Deep Learning' ,'Hadoop'‘Tableau’, ‘Keras’)
+
 e)To reach to the best performance , we only keep the rows that have the salary estimated from Glassdoor (Glassdoor est.). In other words, for prediction the salary we need to salary in our model So  we drop the row than don't have the salary.
 
 

@@ -20,10 +20,22 @@ Firstly what is scarpping data ?it's the stongest point of our project this stag
         Other than the fact that it is fun, Glassdoor’s library provides a limited number of data points. It doesn’t allow you to scrape jobs or reviews. You only get to scrape companies, which was useless in my case
         Why Selenuim?
         
-        There are data points such as company valuation and job location under the “Company” tab and we want to access that information as well. The webpage does not show that content unless the user clicks on the “Company” tab. This makes clicking on the “Company” tab necessary. Using requests library and doing simple get requests would not work for this type of website. Therefore, the only way to scrape that data is to write a program that mimics a human user. Selenium is a library that lets you code a python script that would act just like a human user.
+        There are data points such as company valuation and job location under the “Company” tab and we want to access that
+        
+        information as well. The webpage does not show that content unless the user clicks on the “Company” tab. This makes clicking
+        
+        on the “Company” tab necessary. Using requests library and doing simple get requests would not work for this type of website.
+        
+        Therefore, the only way to scrape that data is to write a program that mimics a human user. Selenium is a library that lets
+        
+        you code a python script that would act just like a human user.
+        
          Tips about the data scrapping step:
+         
          a)Some errors may be due to the slow internet speed so adding extra time.sleep functions between page loading steps will help prevent errors
+         
         b) XPath is helpful to locate the element you want to click on. After you are familiar with the XPath, you may find it actually very straightforward. First, right-click on the element and select inspect, then right-click on the selected part of HTML code and select copy XPath.
+        
         c) after that we store tha data the scrapped to online database which I mean 'datafromglassdoor2' that we had created in the top .
  ## 2- Data Cleaning:
  

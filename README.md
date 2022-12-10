@@ -19,19 +19,7 @@ Firstly what is scarpping data ?it's the stongest point of our project this stag
         Why scrapping?
         Other than the fact that it is fun, Glassdoor’s library provides a limited number of data points. It doesn’t allow you to scrape jobs or reviews. You only get to scrape companies, which was useless in my case
         
-        Why Selenuim?
         
-        There are data points such as company valuation and job location under the “Company” tab and we want to access that
-        
-        information as well. The webpage does not show that content unless the user clicks on the “Company” tab. This makes clicking
-        
-        on the “Company” tab necessary. Using requests library and doing simple get requests would not work for this type of website.
-        
-        Therefore, the only way to scrape that data is to write a program that mimics a human user. Selenium is a library that lets
-        
-        you code a python script that would act just like a human user.
-        
-         Tips about the data scrapping step:
          
          a)Some errors may be due to the slow internet speed so adding extra time.sleep functions between page loading steps will help prevent errors
          
@@ -59,7 +47,19 @@ c)Company Age
 d)Trending Data Science Tools (‘Python’, ‘R’,‘SQL’, ‘AWS’, ‘Excel’, ‘Spark’, ‘PyTorch’, ‘TensorFlow’,'Mahine Learning' , 'Deep Learning' ,'Hadoop'‘Tableau’, ‘Keras’)
 
 e)To reach to the best performance , we only keep the rows that have the salary estimated from Glassdoor (Glassdoor est.). In other words, for prediction the salary we need to salary in our model So  we drop the row than don't have the salary.
-
+Why Selenuim?
+        
+There are data points such as company valuation and job location under the “Company” tab and we want to access that
+        
+information as well. The webpage does not show that content unless the user clicks on the “Company” tab. This makes clicking
+       
+ on the “Company” tab necessary. Using requests library and doing simple get requests would not work for this type of website.
+        
+ Therefore, the only way to scrape that data is to write a program that mimics a human user. Selenium is a library that lets
+        
+ ou code a python script that would act just like a human user.
+        
+ Tips about the data scrapping step:
 
 
 

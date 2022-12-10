@@ -14,18 +14,23 @@ Steps of project :
        
 #### 1-2 Scrapping real data :
 
-Firstly what is scarpping data ?it's the stongest point of our project this stage around two months because  
-        it's amethod for collecting informationn from web pages .
-        Why scrapping?
-        Other than the fact that it is fun, Glassdoor’s library provides a limited number of data points. It doesn’t allow you to scrape jobs or reviews. You only get to scrape companies, which was useless in my case
+it's the stongest point of our project this stage around two months.
+
+ what is scarpping data? 
+ 
+ it's amethod for collecting informationn from web pages . 
+ 
+ Why scrapping?
+Other than the fact that it is fun, Glassdoor’s library provides a limited number of data points. It doesn’t allow you to scrape jobs or reviews. You only get to scrape companies, which was useless in my case
         
-        
+Tips about the data scraping step:    
          
-         a)Some errors may be due to the slow internet speed so adding extra time.sleep functions between page loading steps will help prevent errors
+a)Some errors may be due to the slow internet speed so adding extra time.sleep functions between page loading steps will help prevent errors
          
-        b) XPath is helpful to locate the element you want to click on. After you are familiar with the XPath, you may find it actually very straightforward. First, right-click on the element and select inspect, then right-click on the selected part of HTML code and select copy XPath.
-        
-        c) after that we store tha data the scrapped to online database which I mean 'datafromglassdoor2' that we had created in the top .
+b) XPath is helpful to locate the element you want to click on. After you are familiar with the XPath, you may find it actually very straightforward. First, right-click on the element and select inspect, then right-click on the selected part of HTML code and select copy XPath.
+
+c) after that we store tha data the scrapped to online database which I mean 'datafromglassdoor2' that we had created in the top .
+
  ## 2- Data Cleaning:
  
  we proceed onto the data cleaning step. Essentially, we will clean and keep the following columns

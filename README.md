@@ -18,6 +18,7 @@ Firstly what is scarpping data ?it's the stongest point of our project this stag
         it's amethod for collecting informationn from web pages .
         Why scrapping?
         Other than the fact that it is fun, Glassdoor’s library provides a limited number of data points. It doesn’t allow you to scrape jobs or reviews. You only get to scrape companies, which was useless in my case
+        
         Why Selenuim?
         
         There are data points such as company valuation and job location under the “Company” tab and we want to access that

@@ -94,9 +94,24 @@ and I got alittle bit more intersting information you can see above the box blot
 
 ![image](https://user-images.githubusercontent.com/46110270/206856360-fb8d4a87-ee33-4164-9dc8-0cd695625560.png)
 
-3) we find top 10 states hiring data science ,Not suprisingly , a New York-based job is paid more (113K+), but sush a bog gap up to (60K+) a year between New York and other like Massachusetts is still astonishing.Moreover ,regardlessof living cost ,data science professionals
+3) find top 10 states hiring data science ,Not suprisingly , a New York-based job is paid more (113K+), but sush a bog gap up to (60K+) a year between New York and other like Massachusetts is still astonishing.Moreover ,regardlessof living cost ,data science professionals
 
  ![image](https://user-images.githubusercontent.com/46110270/206856911-d91dbaed-4d47-4d60-bc2b-0b4ba365f149.png)
+ 
+ 4) find top 20 cities hiring data sciecne ,Cities such as Annaplolis Junction have been with the highest salary for data scientist professionals ,because thses cities have mid-high living costs which actually perform much better and might be the real cause to those high salary
+ 
+ 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/46110270/206857217-87a28217-9be5-4df1-a450-d29117719c65.png)
+
+
+
+5)Machine Learning appears more frequent in the job description for Data Scientists and Data Engineers than Data Analyst,on the other hand Data Scientists are required or prefered to have a much extended breadth of qualifications including PHD degrees wheras other positions focus more on fewer skillest and require and prefer only Master degrees or lower, as well Dashboard appears more frequent in the job description for Data analysts than Data Sciencs and Data engineers beacuse the final output for Data analysts is a Dashboard using Tablue , PowerBi . Platform appears more frequent in the job description for Data Engineers and Data Entry than Data Science .
+
+![image](https://user-images.githubusercontent.com/46110270/206857293-db574ec4-3ddc-42e8-9bea-392a20af0e9c.png)
+
+
 
 
 

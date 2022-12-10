@@ -71,13 +71,27 @@ information as well. The webpage does not show that content unless the user clic
         
 ## 3- Exploratory Data Analysis :
 
-1) we will  display the distribuation of the salary for Data Science , Data Engineer and Data Analyst and I got alittle bit more intersting information you can see above the box blots are obviously there are outliers , so we must to drop it by finding the IQR for Salary of Data Analyst ,which data points which fall below Q1 – 1.5 IQR or above Q3 + 1.5 IQR are outliers where Q1 and Q3 are the 25th and 75th percentile of the dataset respectively, and IQR represents the inter-quartile range and given by Q3 – Q1.
+1) we will  display the distribuation of the salary for Data Science , Data Engineer and Data Analyst as we can see below
 
-2) We find the 3 top location underpaid 90K and 3 top location highpaid 90K and The precense of California as the job location in the high paid group , on the other hand ,the precense of GA in the low paid group. the underpaid group locates more at lower salary such as Manhattan
+![image](https://user-images.githubusercontent.com/46110270/206856499-dc813f6b-3cda-4e77-8300-46af029cae56.png)
+
+
+
+
+and I got alittle bit more intersting information you can see above the box blots are obviously there are outliers as we can see below
+![image](https://user-images.githubusercontent.com/46110270/206856666-df10a56a-4788-4f1f-a1be-d1ecaa149702.png)
+
+
+, so we must to drop it by finding the IQR for Salary of Data Analyst ,which data points which fall below Q1 – 1.5 IQR or above Q3 + 1.5 IQR are outliers where Q1 and Q3 are the 25th and 75th percentile of the dataset respectively, and IQR represents the inter-quartile range and given by Q3 – Q1 like this :
+
+![image](https://user-images.githubusercontent.com/46110270/206856725-795d658f-7ee5-42c8-9598-4a6fa85b44dd.png)
+
+
+2) We find the 3 top location underpaid 90K and 3 top location highpaid 90K and The precense of California as the job location in the high paid group , on the other hand ,the precense of GA in the low paid group. the underpaid group locates more at lower salary such as Manhattan as we can see below :
+3) 
 
 
 ![image](https://user-images.githubusercontent.com/46110270/206856360-fb8d4a87-ee33-4164-9dc8-0cd695625560.png)
 
-4) 4) 
-5) 
+
 

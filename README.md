@@ -111,6 +111,10 @@ and I got alittle bit more intersting information you can see above the box blot
 
 ![image](https://user-images.githubusercontent.com/46110270/206857293-db574ec4-3ddc-42e8-9bea-392a20af0e9c.png)
 
+5)Machine and Deep Learning are Hot in Data Engineer and Data SCience but Cold in both of Data Analyst and Data Entry
+Some keywords on job titles also have an impact on the salaries ,the most obvious one is "Machine and Learning".data shows "Machine are Data Learning " written on job title would increase this job's salaty by more than 20% on Data engineer and 5 % on Data science .However the phrases "Artificial Intelligence" doesn't have comparable significant effects and "Machine Learing" shows up on analyst salaries
+
+![image](https://user-images.githubusercontent.com/46110270/206857451-11938fe2-ccd6-456b-ba16-ab6f7ea9b190.png)
 
 
 
